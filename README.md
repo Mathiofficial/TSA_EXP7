@@ -117,4 +117,4 @@ plt.show()
 
 
 ### RESULT:
-Thus we have successfully implemented the auto regression function using python.
+Thus, the auto regression function using python is successfully executed.
