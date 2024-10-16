@@ -32,7 +32,7 @@ from statsmodels.tsa.ar_model import AutoReg
 from sklearn.metrics import mean_squared_error
 
 # Load the dataset
-data = pd.read_csv('/mnt/data/seattle_weather_1948-2017.csv')
+data = pd.read_csv('seattle_weather.csv')
 
 # Inspect the first few rows to understand the structure
 print(data.head())
